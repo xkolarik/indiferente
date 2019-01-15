@@ -2,5 +2,5 @@
 
  Para configuração aplicação utilizar o arquivo - config-api.
  <br>
- Para Previa da descrição da implementação arquivo - Descrição-da-Implementação.
+ Para saber sobre a descrição da implementação o arquivo - Descrição-da-Implementação.
  
