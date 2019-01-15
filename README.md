@@ -1,5 +1,6 @@
 # BOT-API
 
- Para configuração - config-api.
- Descrição da implementação - Descrição-da-Implementação.
+ Para configuração aplicação utilizar o arquivo - config-api.
+ <br>
+ Para Previa da descrição da implementação arquivo - Descrição-da-Implementação.
  
