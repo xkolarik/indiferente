@@ -1,1 +1,1 @@
-# The-BOT-API
+# BOT-API
