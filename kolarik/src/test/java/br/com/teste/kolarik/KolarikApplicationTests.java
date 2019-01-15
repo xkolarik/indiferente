@@ -12,6 +12,5 @@ public class KolarikApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
 

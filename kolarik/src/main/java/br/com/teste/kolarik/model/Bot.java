@@ -5,7 +5,6 @@ import org.bson.types.ObjectId;
 public class Bot {
 	
 	private ObjectId id;
-	
 	private String name;
 	
 	public Bot() {

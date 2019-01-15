@@ -49,5 +49,4 @@ public class BotController {
 	public void deleteBot(@PathVariable ObjectId id) {
 	  repository.delete(repository.findById(id));
 	}
-	
 }
